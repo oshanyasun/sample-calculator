@@ -1,5 +1,5 @@
 h if..else if...else
-// program for a simple calculator
+// program for a simple calculator from if else 
 
 // take the operator input
 const operator = prompt('Enter operator ( either +, -, * or / ): ');
